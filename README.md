@@ -1,4 +1,4 @@
-# Project: Invie
+# Project: Invie Responsive
 
 ## Description
 Project of the Responsive Design Course of Platzi
@@ -7,3 +7,6 @@ Project of the Responsive Design Course of Platzi
 - HTML
 - CSS
 - JavaScript
+
+## Developed By
+Nathaly Riaño Bejarano [@nasterboost](https://twitter.com/nasterboost)
